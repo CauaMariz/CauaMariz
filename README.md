@@ -5,21 +5,21 @@
 Me chamo Cauã Mariz, tenho 19 anos e atualmente desenvolvo diversos projetos desde HTML5 até NodeJS. Sou formado em Desenvolvimento de Sistemas na Etec Uirapuru, entre os anos de 2024 e 2026. Possuo alguns certificados em HTML, JS, Java, PHP, SQL Spring Boot e outros.
 
 <p align="left">
-    <a href="">
+    <a href="https://www.instagram.com/cau.mmm?stkn=eTk1MzdvZm83M2Nr">
     <img 
         alt="Instagram" 
         title="Siga-me no Instagram" 
         src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
     />
     </a>
-    <a href="SEU_LINK_DO_LINKEDIN">
+    <a href="www.linkedin.com/in/caua-mariz-a183b336a">
     <img 
         alt="LinkedIn" 
         title="Meu LinkedIn" 
         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
     />
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:marizcaua0@gmail.com">
     <img 
         alt="Email" 
         title="Entre em contato comigo" 
